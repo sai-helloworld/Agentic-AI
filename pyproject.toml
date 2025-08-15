@@ -1,0 +1,16 @@
+[project]
+name = "langraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-groq>=0.3.7",
+    "langchain-mcp-adapters>=0.1.9",
+    "langchain-tavily>=0.2.11",
+    "langgraph>=0.6.4",
+    "langsmith>=0.4.13",
+    "mcp>=1.13.0",
+    "python-dotenv>=1.1.1",
+]
