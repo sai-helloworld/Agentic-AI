@@ -1,0 +1,8 @@
+# Ignore Git metadata (not necessary unless you're nesting repos)
+.git/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore environment variable files
+.env
